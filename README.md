@@ -1,3 +1,6 @@
+##Things I've broken:
+- Zoom (changed zoom_mode_ DEFAULT to DISABLED)
+
 [![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
 
 

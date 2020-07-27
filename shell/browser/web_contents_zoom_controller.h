@@ -95,7 +95,7 @@ class WebContentsZoomController
   void SetZoomFactorOnNavigationIfNeeded(const GURL& url);
 
   // The current zoom mode.
-  ZoomMode zoom_mode_ = ZoomMode::DEFAULT;
+  ZoomMode zoom_mode_ = ZoomMode::DISABLED;
 
   // Current zoom level.
   double zoom_level_ = 1.0;
